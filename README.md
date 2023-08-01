@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![escobar's github stats](https://github-readme-stats.vercel.app/api?username=sonofescobar1337&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonofescobar1337&layout=donut&theme=tokyonight&show_icons=true)
+
+
+
 <!--
 **sonofescobar1337/sonofescobar1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
