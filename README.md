@@ -2,6 +2,9 @@
 
 ![escobar's github stats](https://github-readme-stats.vercel.app/api?username=sonofescobar1337&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sonofescobar1337&layout=donut&theme=tokyonight&show_icons=true)
 
+
+![readmebox (1)](https://github.com/sonofescobar1337/sonofescobar1337/assets/97580283/dbebe8c7-e352-4422-8320-fb7f68d2c622)
+
 <!--
 **sonofescobar1337/sonofescobar1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
